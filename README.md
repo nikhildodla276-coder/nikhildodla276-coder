@@ -9,7 +9,10 @@ I am rebuilding my technical foundation from the ground up, focusing on **System
 - **Logic Design:** Learning to architect solutions before writing code.
 - **Python Fundamentals:** Building the "Shadow Sentinel" suite for file management.
 - **Professional Workflow:** Mastering Git, GitHub, and Clean Documentation.
-
+- 🚀 **Sovereign Sentinel:** Building an autonomous monitoring system with a focus on **Zero-Downtime Architecture**.
+- 🛠 **Standardization:** Refactoring legacy logic to meet **10/10 Pylint** standards.
+- 🔐 **Security:** Implementing `dotenv` and `certifi` for secure API integrations.
+  
 ### 📈 The Mission
 To transform daily digital friction into efficient, automated systems through disciplined engineering.
 
