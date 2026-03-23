@@ -1,20 +1,32 @@
 # Hi, I'm Nikhil 👋
 
-### 🤖 AI Automation Architect in Training
-I am rebuilding my technical foundation from the ground up, focusing on **System Logic** and **Autonomous Workflows**.
+## BTech CSE AIML Student | Kalinga University Raipur
 
----
+I started from zero coding knowledge in February 2026.
+I learn by building real projects that solve real problems.
 
-### 🛠️ Current Focus
-- **Logic Design:** Learning to architect solutions before writing code.
-- **Python Fundamentals:** Building the "Shadow Sentinel" suite for file management.
-- **Professional Workflow:** Mastering Git, GitHub, and Clean Documentation.
-- 🚀 **Sovereign Sentinel:** Building an autonomous monitoring system with a focus on **Zero-Downtime Architecture**.
-- 🛠 **Standardization:** Refactoring legacy logic to meet **10/10 Pylint** standards.
-- 🔐 **Security:** Implementing `dotenv` and `certifi` for secure API integrations.
-  
-### 📈 The Mission
-To transform daily digital friction into efficient, automated systems through disciplined engineering.
+## What I am building
+
+**Sovereign Sentinel** — Python bot that monitors 
+Internshala for AI internship listings and sends 
+instant Telegram alerts. Uses BeautifulSoup, 
+Requests, Telegram Bot API. Pylint score: 10/10.
+
+**Exam Assistant** — AI powered study tool that 
+reads PDFs and generates prioritized study notes 
+using Groq LLM API. (In progress)
+
+## Current Focus
+- Python fundamentals via CS50P
+- LLM API integration
+- Building portfolio for remote AI internship
+
+## Stack
+Python | BeautifulSoup | Requests | Telegram Bot API | 
+Groq API | Git | Linux
+
+## Goal
+Remote AI Automation Engineer role before graduation.
 
 ---
 *“Simplicity is the soul of efficiency.”*
