@@ -2,7 +2,7 @@
 
 ## BTech CSE AIML Student | Kalinga University Raipur
 
-I started from zero coding knowledge in February 2026.
+I started from zero coding knowledge in january 2026.
 I learn by building real projects that solve real problems.
 
 ## What I am building
@@ -28,8 +28,6 @@ Groq API | Git | Linux
 ## Goal
 Remote AI Automation Engineer role before graduation.
 
----
-*“Simplicity is the soul of efficiency.”*
 
 <!--
 **nikhildodla276-coder/nikhildodla276-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
