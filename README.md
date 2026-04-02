@@ -14,11 +14,11 @@ Requests, Telegram Bot API. Pylint score: 10/10.
 
 **Exam Assistant** — AI powered study tool that 
 reads PDFs and generates prioritized study notes 
-using Groq LLM API. (In progress)
+using Groq LLM API. Pylint score: 10/10.
 
 ## Current Focus
 - Python fundamentals via CS50P
-- LLM API integration
+- Building Project 3
 - Building portfolio for remote AI internship
 
 ## Stack
