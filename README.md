@@ -18,7 +18,7 @@ using Groq LLM API. Pylint score: 10/10.
 
 ## Current Focus
 - Python fundamentals via CS50P
-- Building Project 3
+- Building Project 3 Daily Performance Tracker
 - Building portfolio for remote AI internship
 
 ## Stack
